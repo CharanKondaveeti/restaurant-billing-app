@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/restaurant-billing-app/static/css/main.073c9b0a.css",
-    "main.js": "/restaurant-billing-app/static/js/main.8fd94a5d.js",
-    "static/js/787.b0278350.chunk.js": "/restaurant-billing-app/static/js/787.b0278350.chunk.js",
-    "static/media/logo.svg": "/restaurant-billing-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/restaurant-billing-app/static/css/main.6c4a25a1.css",
+    "main.js": "/restaurant-billing-app/static/js/main.eac40d26.js",
     "index.html": "/restaurant-billing-app/index.html",
-    "main.073c9b0a.css.map": "/restaurant-billing-app/static/css/main.073c9b0a.css.map",
-    "main.8fd94a5d.js.map": "/restaurant-billing-app/static/js/main.8fd94a5d.js.map",
-    "787.b0278350.chunk.js.map": "/restaurant-billing-app/static/js/787.b0278350.chunk.js.map"
+    "main.6c4a25a1.css.map": "/restaurant-billing-app/static/css/main.6c4a25a1.css.map",
+    "main.eac40d26.js.map": "/restaurant-billing-app/static/js/main.eac40d26.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8fd94a5d.js"
+    "static/css/main.6c4a25a1.css",
+    "static/js/main.eac40d26.js"
   ]
 }
